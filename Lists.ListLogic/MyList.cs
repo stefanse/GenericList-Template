@@ -9,7 +9,7 @@ namespace Lists.ListLogic
     /// Die Liste verwaltet beliebige Elemente und implementiert
     /// das IList-Interface und damit auch ICollection und IEnumerable
     /// </summary>
-    public class MyList<T>: IList<T>// where T : IComparable //kollege hat kein <T>
+    public class MyList<T>: IList<T>
     {
         Node<T> _head;
         //public int _addindex = 1;
@@ -23,26 +23,7 @@ namespace Lists.ListLogic
         /// </summary>
         /// <param name="value">Einzufügender Datensatz</param>
         /// <returns>Index des Werts in der Liste</returns>
-        /*
-        public int Add(T value)
-        {
-            Node<T> insertNode = new Node<T>(value);
-            if (_head == null)
-            {
-                _head = insertNode;
-                return 0;
-            }
-            Node<T> searchNode = _head;
-            int index = 1;
-            while (searchNode.Next != null)
-            {
-                searchNode = searchNode.Next;
-                index++;
-            }
-            searchNode.Next = insertNode;
-            return index;
-        }
-        */
+     
       
         public void Add (T value)
         {
