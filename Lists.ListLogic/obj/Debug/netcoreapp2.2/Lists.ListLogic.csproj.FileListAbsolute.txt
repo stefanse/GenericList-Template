@@ -1,0 +1,8 @@
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\bin\Debug\netcoreapp2.2\Lists.ListLogic.deps.json
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\bin\Debug\netcoreapp2.2\Lists.ListLogic.dll
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\bin\Debug\netcoreapp2.2\Lists.ListLogic.pdb
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\obj\Debug\netcoreapp2.2\Lists.ListLogic.AssemblyInfoInputs.cache
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\obj\Debug\netcoreapp2.2\Lists.ListLogic.AssemblyInfo.cs
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\obj\Debug\netcoreapp2.2\Lists.ListLogic.dll
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\obj\Debug\netcoreapp2.2\Lists.ListLogic.pdb
+C:\Kolleg\POS\genericlist-master\GenericList-Template\Lists.ListLogic\obj\Debug\netcoreapp2.2\Lists.ListLogic.csprojAssemblyReference.cache
